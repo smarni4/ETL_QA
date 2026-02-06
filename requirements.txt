@@ -1,0 +1,15 @@
+flake8==7.3.0
+pandas
+psycopg2-binary
+pytest==8.4.2
+pytest-xdist==3.8.0
+pytest-trio==0.8.0
+pytest-rerunfailures==16.1
+requests==2.32.5
+selenium==4.40.0
+sqlalchemy
+trio==0.31.0
+tox==4.32.0
+webdriver-manager==3.8.5
+
+
