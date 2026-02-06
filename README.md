@@ -1,7 +1,7 @@
-**[ETL Testing Guide](https://qaautomation.expert/2025/10/07/a-complete-guide-to-etl-testing/#what-is-etl-extract-transform-load)**
+# ETL QA Testing
 
-**[Selenium Guide 1](https://www.geeksforgeeks.org/blogs/selenium-project-ideas/)**
+* **[ETL Testing Guide](https://qaautomation.expert/2025/10/07/a-complete-guide-to-etl-testing/#what-is-etl-extract-transform-load)**
 
-**[Selinium Guide 2](https://www.techlistic.com/p/selenium-tutorials.html)**
+* **[Selenium Guide 1](https://www.geeksforgeeks.org/blogs/selenium-project-ideas/)**
 
-
+* **[Selinium Guide 2](https://www.techlistic.com/p/selenium-tutorials.html)**
